@@ -1,0 +1,22 @@
+/patch-Makefile_in/1.15/Fri Mar 11 19:23:28 2022//
+/patch-libtiff_Makefile_in/1.19/Fri Mar 11 19:23:28 2022//
+/patch-libtiff_tif_codec_c/1.8/Fri Mar 11 19:23:28 2022//
+/patch-libtiff_tif_compress_c/1.7/Fri Mar 11 19:23:28 2022//
+/patch-libtiff_tif_dir_c/1.6/Sat Mar 26 16:43:02 2022//
+/patch-libtiff_tif_dirread_c/1.7/Sat Mar 26 16:43:02 2022//
+/patch-libtiff_tif_extension_c/1.7/Fri Mar 11 19:23:28 2022//
+/patch-libtiff_tif_getimage_c/1.16/Fri Mar 11 19:23:28 2022//
+/patch-libtiff_tif_jbig_c/1.1/Sat Mar 26 16:43:02 2022//
+/patch-libtiff_tif_luv_c/1.12/Fri Mar 11 19:23:28 2022//
+/patch-libtiff_tif_open_c/1.6/Fri Mar 11 19:23:28 2022//
+/patch-man_Makefile_in/1.19/Fri Mar 11 19:23:28 2022//
+/patch-test_Makefile_in/1.15/Fri Mar 11 19:23:28 2022//
+/patch-test_tiff2ps-EPS1_sh/1.3/Fri Mar 11 19:23:28 2022//
+/patch-test_tiff2ps-PS1_sh/1.3/Fri Mar 11 19:23:28 2022//
+/patch-test_tiff2ps-PS2_sh/1.3/Fri Mar 11 19:23:28 2022//
+/patch-test_tiff2ps-PS3_sh/1.3/Fri Mar 11 19:23:28 2022//
+/patch-tools_Makefile_in/1.15/Fri Mar 11 19:23:28 2022//
+/patch-tools_tiffcp_c/1.1/Sat Mar 26 16:43:02 2022//
+/patch-tools_tiffcrop_c/1.3/Sat Mar 26 16:43:02 2022//
+/patch-tools_tiffset_c/1.3/Sat Mar 26 16:43:02 2022//
+D

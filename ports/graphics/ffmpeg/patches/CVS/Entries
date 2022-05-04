@@ -1,0 +1,10 @@
+/patch-configure/1.70/Fri Mar 11 19:22:17 2022//
+/patch-doc_encoders_texi/1.6/Fri Mar 11 19:22:17 2022//
+/patch-ffbuild_library_mak/1.2/Fri Mar 11 19:22:17 2022//
+/patch-ffbuild_pkgconfig_generate_sh/1.2/Fri Mar 11 19:22:17 2022//
+/patch-libavcodec_aacenc_c/1.25/Fri Mar 11 19:22:17 2022//
+/patch-libavcodec_libdav1d_c/1.10/Sun Mar 20 09:50:15 2022//
+/patch-libavformat_rtpproto_c/1.2/Fri Mar 11 19:22:17 2022//
+/patch-libavformat_udp_c/1.2/Fri Mar 11 19:22:17 2022//
+/patch-libswscale_ppc_yuv2rgb_altivec_c/1.2/Fri Mar 11 19:22:18 2022//
+D

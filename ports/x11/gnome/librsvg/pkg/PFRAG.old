@@ -1,0 +1,6 @@
+include/librsvg-2.0/librsvg/librsvg-enum-types.h
+include/librsvg-2.0/librsvg/librsvg-features.h
+share/gtk-doc/html/rsvg-2.0/RsvgHandle.html
+share/gtk-doc/html/rsvg-2.0/rsvg-Using-RSVG-with-GdkPixbuf.html
+share/gtk-doc/html/rsvg-2.0/rsvg-Using-RSVG-with-cairo.html
+share/gtk-doc/html/rsvg-2.0/rsvg-Version-check-and-feature-tests.html

@@ -1,0 +1,12 @@
+PORTROACH=	limit:^8\.0
+PHP_VERSION=	8.0.17
+PHP_PKGSPEC=	>=8.0,<8.1
+REVISION=	0
+REVISION-main=	2
+REVISION-pdo_dblib=	1
+
+DEFAULT_PHP=	Yes
+
+DEBUG_PACKAGES=		${BUILD_PACKAGES}
+
+.include <bsd.port.mk>

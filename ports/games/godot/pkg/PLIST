@@ -1,0 +1,9 @@
+@bin bin/godot
+@man man/man6/godot.6
+share/applications/org.godotengine.Godot.desktop
+share/doc/pkg-readmes/${PKGSTEM}
+share/metainfo/
+share/metainfo/org.godotengine.Godot.appdata.xml
+share/pixmaps/
+share/pixmaps/godot.svg
+@tag update-desktop-database

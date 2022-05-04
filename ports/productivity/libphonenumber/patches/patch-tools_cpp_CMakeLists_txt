@@ -1,0 +1,14 @@
+Strip -Werror to fix sparc64 build
+
+Index: tools/cpp/CMakeLists.txt
+--- tools/cpp/CMakeLists.txt.orig
++++ tools/cpp/CMakeLists.txt
+@@ -32,7 +32,7 @@ set (
+ )
+ 
+ if (NOT WIN32)
+-  add_definitions ("-Wall -Werror")
++  add_definitions ("-Wall")
+ endif ()
+ 
+ include_directories ("src")

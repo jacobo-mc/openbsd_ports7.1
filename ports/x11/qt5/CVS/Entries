@@ -1,0 +1,49 @@
+/Makefile/1.65/Fri Mar 11 20:16:58 2022//
+/Makefile.inc/1.19/Fri Mar 11 20:16:58 2022//
+/Makefile.version/1.15/Fri Mar 11 20:16:58 2022//
+/qt5.port.mk/1.30/Fri Mar 11 20:16:58 2022//
+D/docs////
+D/patches////
+D/pkg////
+D/qt3d////
+D/qtactiveqt////
+D/qtbase////
+D/qtbase-docs////
+D/qtcanvas3d////
+D/qtcharts////
+D/qtconnectivity////
+D/qtdatavis3d////
+D/qtdeclarative////
+D/qtdoc////
+D/qtenginio////
+D/qtgamepad////
+D/qtgraphicaleffects////
+D/qtimageformats////
+D/qtlocation////
+D/qtlottie////
+D/qtmultimedia////
+D/qtnetworkauth////
+D/qtpurchasing////
+D/qtquickcontrols////
+D/qtquickcontrols2////
+D/qtremoteobjects////
+D/qtscript////
+D/qtscxml////
+D/qtsensors////
+D/qtserialbus////
+D/qtserialport////
+D/qtspeech////
+D/qtsvg////
+D/qttools////
+D/qttranslations////
+D/qtvirtualkeyboard////
+D/qtwayland////
+D/qtwebchannel////
+D/qtwebengine////
+D/qtwebglplugin////
+D/qtwebkit////
+D/qtwebkit-examples////
+D/qtwebsockets////
+D/qtwebview////
+D/qtx11extras////
+D/qtxmlpatterns////

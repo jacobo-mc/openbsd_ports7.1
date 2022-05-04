@@ -1,0 +1,37 @@
+GCC 4.2.1 doesn't recognize the "-Wtype-limits" option.
+
+Also drop -Werror
+
+Index: Makefile
+--- Makefile.orig
++++ Makefile
+@@ -9,7 +9,7 @@ KODEV=kodev/kodev
+ KOREPATH?=$(shell pwd)
+ KORE_CRYPTO?=crypto
+ INSTALL_DIR=$(PREFIX)/bin
+-MAN_DIR?=$(PREFIX)/share/man
++MAN_DIR?=$(PREFIX)/man
+ SHARE_DIR=$(PREFIX)/share/kore
+ INCLUDE_DIR=$(PREFIX)/include/kore
+ 
+@@ -28,10 +28,9 @@ S_SRC=	src/kore.c src/buf.c src/config.c src/connectio
+ FEATURES=
+ FEATURES_INC=
+ 
+-CFLAGS+=-Wall -Werror -Wstrict-prototypes -Wmissing-prototypes
++CFLAGS+=-Wall -Wstrict-prototypes -Wmissing-prototypes
+ CFLAGS+=-Wmissing-declarations -Wshadow -Wpointer-arith -Wcast-qual
+ CFLAGS+=-Wsign-compare -Iinclude/kore -I$(OBJDIR) -std=c99 -pedantic
+-CFLAGS+=-Wtype-limits
+ CFLAGS+=-DPREFIX='"$(PREFIX)"' -fstack-protector-all
+ 
+ ifneq ("$(OPENSSL_PATH)", "")
+@@ -53,8 +52,6 @@ endif
+ 
+ ifneq ("$(NOOPT)", "")
+ 	CFLAGS+=-O0
+-else
+-	CFLAGS+=-O2
+ endif
+ 
+ ifneq ("$(NOSENDFILE)", "")

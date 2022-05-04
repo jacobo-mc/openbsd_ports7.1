@@ -1,0 +1,4 @@
+${P5ARCH}/XML/LibXSLT.pm
+${P5ARCH}/auto/XML/LibXSLT/
+@so ${P5ARCH}/auto/XML/LibXSLT/LibXSLT.so
+@man man/man3p/XML::LibXSLT.3p

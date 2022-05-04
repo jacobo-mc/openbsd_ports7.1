@@ -1,0 +1,12 @@
+Index: CMakeLists.txt
+--- CMakeLists.txt.orig
++++ CMakeLists.txt
+@@ -194,7 +194,7 @@ if (WITH_LUA)
+         include_directories(SYSTEM ${LUAJIT_INCLUDE_DIR})
+         set(HAVE_LUAJIT 1)
+     else()
+-        find_package(Lua REQUIRED)
++        find_package(Lua ${MODLUA_VERSION} REQUIRED)
+         include_directories(SYSTEM ${LUA_INCLUDE_DIR})
+     endif()
+     set(HAVE_LUA 1)

@@ -1,0 +1,8 @@
+/patch-clutter_clutter_clutter-stage-view_c/1.3/Fri Mar 11 20:15:44 2022//
+/patch-cogl_cogl_cogl-dma-buf-handle_c/1.3/Fri Mar 11 20:15:44 2022//
+/patch-cogl_cogl_cogl-dma-buf-handle_h/1.3/Fri Mar 11 20:15:44 2022//
+/patch-meson_build/1.5/Fri Mar 11 20:15:44 2022//
+/patch-src_backends_meta-stage-impl_c/1.2/Fri Mar 11 20:15:44 2022//
+/patch-src_backends_x11_meta-input-settings-x11_c/1.6/Fri Mar 11 20:15:44 2022//
+/patch-src_backends_x11_meta-seat-x11_c/1.5/Fri Mar 11 20:15:44 2022//
+D

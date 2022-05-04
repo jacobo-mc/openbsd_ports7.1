@@ -1,0 +1,16 @@
+/patch-deps_canola_rebar_config/1.2/Fri Mar 11 18:31:43 2022//
+/patch-deps_eleveldb_c_src_build_deps_sh/1.5/Fri Mar 11 18:31:43 2022//
+/patch-deps_eleveldb_c_src_leveldb_build_config_mk/1.6/Fri Mar 11 18:31:43 2022//
+/patch-deps_eleveldb_c_src_leveldb_include_leveldb_ldb_config_h/1.2/Fri Mar 11 18:31:43 2022//
+/patch-deps_eleveldb_rebar_config/1.8/Fri Mar 11 18:31:43 2022//
+/patch-deps_hyper_src_hyper_gb_erl/1.2/Fri Mar 11 18:31:43 2022//
+/patch-deps_riak_kv_rebar_config/1.2/Fri Mar 11 18:31:43 2022//
+/patch-deps_riak_kv_src_riak_kv_mrc_map_erl/1.2/Fri Mar 11 18:31:43 2022//
+/patch-deps_riak_kv_src_riak_kv_put_fsm_erl/1.2/Fri Mar 11 18:31:43 2022//
+/patch-deps_riak_kv_src_riak_kv_sup_erl/1.2/Fri Mar 11 18:31:43 2022//
+/patch-deps_riak_kv_src_riak_kv_vnode_erl/1.4/Fri Mar 11 18:31:43 2022//
+/patch-deps_riak_kv_src_riak_kv_w_reduce_erl/1.2/Fri Mar 11 18:31:43 2022//
+/patch-rebar_config/1.4/Fri Mar 11 18:31:43 2022//
+/patch-rel_reltool_config/1.4/Fri Mar 11 18:31:43 2022//
+/patch-vars_config/1.7/Fri Mar 11 18:31:43 2022//
+D

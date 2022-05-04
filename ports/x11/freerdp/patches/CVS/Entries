@@ -1,0 +1,13 @@
+/patch-CMakeLists_txt/1.14/Sat Mar 12 11:25:43 2022//
+/patch-channels_rdpdr_client_rdpdr_main_c/1.4/Fri Mar 11 20:15:31 2022//
+/patch-client_X11_CMakeLists_txt/1.5/Fri Mar 11 20:15:31 2022//
+/patch-libfreerdp_crypto_opensslcompat_c/1.2/Fri Mar 11 20:15:31 2022//
+/patch-libfreerdp_crypto_opensslcompat_h/1.2/Fri Mar 11 20:15:31 2022//
+/patch-libfreerdp_crypto_tls_c/1.9/Fri Mar 11 20:15:31 2022//
+/patch-winpr_libwinpr_CMakeLists_txt/1.3/Fri Mar 11 20:15:31 2022//
+/patch-winpr_libwinpr_crypto_hash_c/1.2/Fri Mar 11 20:15:31 2022//
+/patch-winpr_libwinpr_synch_CMakeLists_txt/1.6/Fri Mar 11 20:15:31 2022//
+/patch-winpr_libwinpr_synch_test_CMakeLists_txt/1.4/Fri Mar 11 20:15:31 2022//
+/patch-winpr_libwinpr_utils_trio_triodef_h/1.3/Fri Mar 11 20:15:31 2022//
+/patch-winpr_winpr_pc_in/1.2/Fri Mar 11 20:15:31 2022//
+D

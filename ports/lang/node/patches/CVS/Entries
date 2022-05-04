@@ -1,0 +1,23 @@
+/patch-Makefile/1.15/Fri Mar 18 19:35:16 2022//
+/patch-common_gypi/1.19/Fri Mar 11 19:29:08 2022//
+/patch-deps_npm_bin_node-gyp-bin_node-gyp/1.5/Fri Mar 11 19:29:08 2022//
+/patch-deps_npm_node_modules_node-gyp_gyp_pylib_gyp_generator_make_py/1.10/Fri Mar 11 19:29:08 2022//
+/patch-deps_npm_node_modules_node-gyp_lib_install_js/1.15/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_include_v8config_h/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_api_api_cc/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_base_atomicops_h/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_base_platform-openbsd_cc/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_base_platform-posix_cc/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_base_sys-info_cc/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_trap-handler_h/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_trap-handler_handler-inside-posix_cc/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_trap-handler_handler-inside-posix_h/1.2/Fri Mar 11 19:29:08 2022//
+/patch-deps_v8_src_wasm_baseline_ia32_liftoff-assembler-ia32_h/1.2/Fri Mar 11 19:29:08 2022//
+/patch-lib_internal_modules_cjs_loader_js/1.4/Fri Mar 18 19:35:16 2022//
+/patch-lib_net_js/1.1/Fri Mar 18 19:33:42 2022//
+/patch-node_gyp/1.10/Fri Mar 11 19:29:08 2022//
+/patch-src_cares_wrap_h/1.2/Fri Mar 11 19:29:08 2022//
+/patch-src_env_cc/1.2/Fri Mar 11 19:29:08 2022//
+/patch-tools_test_py/1.10/Fri Mar 11 19:29:08 2022//
+/patch-tools_v8_gypfiles_v8_gyp/1.2/Fri Mar 11 19:29:08 2022//
+D

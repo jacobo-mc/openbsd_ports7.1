@@ -1,0 +1,14 @@
+/Makefile/1.2/Fri Mar 11 20:17:12 2022//
+/Makefile.inc/1.3/Fri Mar 11 20:17:12 2022//
+/Makefile.version/1.3/Fri Mar 11 20:17:12 2022//
+/qt6.port.mk/1.5/Fri Mar 11 20:17:12 2022//
+D/qt5compat////
+D/qtbase////
+D/qtdeclarative////
+D/qtquick3d////
+D/qtquickcontrols2////
+D/qtquicktimeline////
+D/qtshadertools////
+D/qtsvg////
+D/qttools////
+D/qttranslations////

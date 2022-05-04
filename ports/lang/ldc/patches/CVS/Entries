@@ -1,0 +1,15 @@
+/patch-driver_linker-gcc_cpp/1.2/Fri Mar 11 19:29:04 2022//
+/patch-driver_targetmachine_cpp/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_CMakeLists_txt/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_core_sys_openbsd_sys_link_elf_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_core_sys_posix_sys_filio_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_core_sys_posix_sys_ioccom_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_core_sys_posix_sys_ioctl_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_core_sys_posix_sys_mman_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_core_sys_posix_sys_ttycom_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_core_thread_fiber_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_rt_dmain2_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_rt_sections_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_rt_sections_elf_shared_d/1.2/Fri Mar 11 19:29:04 2022//
+/patch-runtime_druntime_src_rt_sections_ldc_d/1.2/Fri Mar 11 19:29:04 2022//
+D

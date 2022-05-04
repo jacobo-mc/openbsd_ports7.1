@@ -1,0 +1,15 @@
+/patch-aclocal_m4/1.6/Fri Mar 11 19:29:00 2022//
+/patch-configure/1.23/Fri Mar 11 19:29:00 2022//
+/patch-ghc_mk/1.17/Fri Mar 11 19:29:00 2022//
+/patch-includes_rts_Messages_h/1.2/Fri Mar 11 19:29:00 2022//
+/patch-libraries_Cabal_Cabal_Distribution_Simple_Program_Strip_hs/1.4/Fri Mar 11 19:29:00 2022//
+/patch-libraries_base_configure/1.2/Fri Mar 11 19:29:00 2022//
+/patch-libraries_unix_unix_cabal/1.5/Fri Mar 11 19:29:00 2022//
+/patch-mk_install_mk_in/1.4/Fri Mar 11 19:29:00 2022//
+/patch-rts_RtsMessages_c/1.2/Fri Mar 11 19:29:00 2022//
+/patch-rts_Stats_c/1.2/Fri Mar 11 19:29:00 2022//
+/patch-testsuite_driver_testlib_py/1.13/Fri Mar 11 19:29:00 2022//
+/patch-testsuite_mk_test_mk/1.12/Fri Mar 11 19:29:00 2022//
+/patch-testsuite_tests_codeGen_should_run_all_T/1.8/Fri Mar 11 19:29:00 2022//
+/patch-utils_iserv_ghc_mk/1.2/Fri Mar 11 19:29:00 2022//
+D

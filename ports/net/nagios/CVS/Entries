@@ -1,0 +1,17 @@
+/Makefile/1.20/Fri Mar 11 19:46:25 2022//
+D/check_bioctl////
+D/check_email_delivery////
+D/check_esxi_hardware////
+D/check_hw_sensors////
+D/check_mssql_health////
+D/check_openbgpd////
+D/check_postgres////
+D/check_rabbitmq////
+D/check_sip////
+D/cnagios////
+D/nagios////
+D/nrpe////
+D/nsca////
+D/nsca-ng////
+D/p5-Nagios-Plugin////
+D/plugins////

@@ -1,0 +1,13 @@
+/patch-Makefile_in/1.10/Fri Mar 11 20:09:37 2022//
+/patch-config_layout/1.11/Fri Mar 11 20:09:37 2022//
+/patch-configure/1.23/Fri Mar 11 20:09:37 2022//
+/patch-docs_conf_httpd_conf_in/1.10/Fri Mar 11 20:09:38 2022//
+/patch-docs_man_htpasswd_1/1.9/Fri Mar 11 20:09:38 2022//
+/patch-docs_man_httpd_8/1.10/Fri Mar 11 20:09:38 2022//
+/patch-modules_ssl_ssl_engine_init_c/1.20/Fri Mar 11 20:09:38 2022//
+/patch-modules_ssl_ssl_private_h/1.10/Fri Mar 11 20:09:38 2022//
+/patch-server_mpm_unix_c/1.5/Fri Mar 11 20:09:38 2022//
+/patch-support_apachectl_in/1.7/Fri Mar 11 20:09:38 2022//
+/patch-support_apxs_in/1.7/Fri Mar 11 20:09:38 2022//
+/patch-support_rotatelogs_c/1.9/Fri Mar 11 20:09:38 2022//
+D

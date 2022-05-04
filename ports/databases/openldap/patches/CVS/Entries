@@ -1,0 +1,12 @@
+/patch-Makefile_in/1.7/Mon Mar  7 21:36:42 2022//
+/patch-aclocal_m4/1.5/Mon Mar  7 21:36:42 2022//
+/patch-build_top_mk/1.11/Mon Mar  7 21:36:42 2022//
+/patch-configure_in/1.10/Mon Mar  7 21:36:42 2022//
+/patch-libraries_libldap_os-ip_c/1.4/Mon Mar  7 21:36:42 2022//
+/patch-libraries_libldap_os-local_c/1.4/Mon Mar  7 21:36:42 2022//
+/patch-libraries_libldap_tls_o_c/1.9/Mon Mar  7 21:36:42 2022//
+/patch-libraries_liblutil_uuid_c/1.2/Mon Mar  7 21:36:42 2022//
+/patch-servers_slapd_Makefile_in/1.7/Mon Mar  7 21:36:42 2022//
+/patch-servers_slapd_back-mdb_init_c/1.9/Mon Mar  7 21:36:42 2022//
+/patch-servers_slapd_slapd_conf/1.5/Mon Mar  7 21:36:42 2022//
+D
